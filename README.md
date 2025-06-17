@@ -26,21 +26,18 @@ This repository contains the solution to the MongoDB assignment provided via Git
 
 ## 🛠️ Setup Instructions
 
-1. **Accept the GitHub Classroom Invitation**  
-   Follow the link provided by your instructor and accept the GitHub Classroom assignment.
-
-2. **Clone Your Repository**
+1. **Clone Your Repository**
    ```bash
    git clone <your-github-classroom-repo-url>
    cd <repo-name>
    
-3. **Connect to MongoDB (Choose One)**
+2. **Connect to MongoDB (Choose One)**
 
 - Local MongoDB: Ensure your MongoDB server is running (mongod).
 
 - MongoDB Atlas: Note your connection URI and credentials.
 
-4. **Run the Insert Script**
+3. **Run the Insert Script**
 
 Open mongosh and execute the insert script:
 
